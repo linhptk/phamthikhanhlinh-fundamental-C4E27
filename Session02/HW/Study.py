@@ -39,4 +39,3 @@ else:
         print("You are adult!")
     else:
         print("You are the elder!")
-
