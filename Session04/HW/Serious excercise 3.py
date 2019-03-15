@@ -8,6 +8,7 @@ A = {'1':'35', '2': '36', '3':'40', '4':'44'}
 for k,v in A.items():
     print(k,v, sep='.')
 Q = int(input("Your choice: "))
+# Your_answer = A[i]
 if Q ==4:
     print("Bingo")
 else:

@@ -1,5 +1,4 @@
 # Mình chưa nghĩ ra cách làm 
-
 letter = input("Enter the sentence:\n")
 # Alphabet = {'a': int('0'),
     # 'b': int('0'),
